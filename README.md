@@ -1,15 +1,19 @@
 ### YuvantKumar
 About Me
+
 👋Hello! I'm Yuvant, a 👨‍🔬Biomedical Science major passionate about Computational biology. I like Data science, and I'm constantly exploring new technologies and ideas in this field.
 ###
 ###
 My Skills
+
 Programming Languages: Python 
+
 Technologies: MS EXCEL,pandas,Numpy, Matplotlib,seaborn.  
 ###
 ###
 Contact Me
-Feel free to reach out to me via:
+
+Feel free to reach out to me via 
 Email: kumaryuvant@gmail.com
 ###
 ###
